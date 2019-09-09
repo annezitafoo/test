@@ -1,0 +1,136 @@
+{
+    "sundays": [{
+            "date": 20190106,
+            "title": "The Epiphany of the Lord",
+            "type": "Solemnity",
+            "colour": "w"
+        },
+        {
+            "date": 20190113,
+            "title": "The Baptism of the Lord",
+            "type": "Feast",
+            "colour": "w"
+        },
+        {
+            "date": [20190120, 20190127, 20190203, 20190210, 20190217, 20190224, 20190303],
+            "title": "Ordinary Time",
+            "count": 2,
+            "colour": "g"
+        },
+        {
+            "date": [20190310, 20190317, 20190324, 20190331, 20190407],
+            "title": "Lent",
+            "count": 1,
+            "colour": ["p", "p", "p", "P", "p"]
+        },
+        {
+            "date": 20190414,
+            "title": "Palm Sunday",
+            "colour": "r"
+        },
+        {
+            "date": 20190421,
+            "title": "Easter Sunday",
+            "colour": "w"
+        },
+        {
+            "date": 20190428,
+            "title": ["Divine Mercy Sunday", "Easter"],
+            "count": 2,
+            "colour": "w"
+        },
+        {
+            "date": 20190505,
+            "title": "Easter",
+            "count": 3,
+            "colour": "w"
+        },
+        {
+            "date": 20190512,
+            "title": ["Easter", "Good Shepherd Sunday", "Vocation Sunday"],
+            "count": 4,
+            "colour": "w"
+        },
+        {
+            "date": [20190519, 20190526, 20190602],
+            "title": "Easter",
+            "count": 5,
+            "colour": "w"
+        },
+        {
+            "date": 20190530,
+            "title": "The Ascension of the Lord",
+            "type": "Solemnity",
+            "colour": "w"
+        },
+        {
+            "date": 20190609,
+            "title": "Pentecost",
+            "colour": "r"
+        },
+        {
+            "date": 20190616,
+            "title": "The Most Holy Trinity",
+            "type": "Solemnity",
+            "colour": "w"
+        },
+        {
+            "date": 20190623,
+            "title": "Corpus Christi",
+            "type": "Solemnity",
+            "colour": "w"
+        },
+        {
+            "date": [20190630, 20190707, 20190714, 20190721, 20190728, 20190804, 20190811, 20190818, 20190825, 20190901, 20190908, 20190915, 20190922, 20191006, 20191013],
+            "title": "Ordinary Time",
+            "count": 13,
+            "colour": "g"
+        },
+        {
+            "date": 20190815,
+            "title": "The Assumption of the Blessed Virgin Mary",
+            "type": "Solemnity",
+            "colour": "w"
+        },
+        {
+            "date": 20191020,
+            "title": ["Ordinary Time", "Mission Sunday"],
+            "count": 29,
+            "colour": "g"
+        },
+        {
+            "date": [20191027, 20191103, 20191110, 20191117],
+            "title": "Ordinary Time",
+            "count": 30,
+            "colour": "g"
+        },
+        {
+            "date": 20191001,
+            "title": "All Saints",
+            "type": "Solemnity",
+            "colour": "w"
+        },
+        {
+            "date": 20191124,
+            "title": "Christ the King",
+            "colour": "w"
+        },
+        {
+            "date": [20191201, 20191208, 20191215, 20191222],
+            "title": "Advent",
+            "count": 1,
+            "colour": ["p", "p", "P", "p"]
+        },
+        {
+            "date": 20191225,
+            "title": "Christmas Day",
+            "type": "Solemnity",
+            "colour": "w"
+        },
+        {
+            "date": 20191229,
+            "title": "The Holy Family",
+            "colour": "w"
+        }
+    ]
+}
